@@ -24,3 +24,15 @@ A sleek, interactive, and terminal-based Tic-Tac-Toe game built with Python. Thi
    ```cmd
    python TicTakToe.py
    ```
+   
+## Thanks
+
+**Ascii art**
+   ```bash
+   [git clone [https://github.com/AjitChauhan081/TicTacToe.git](https://github.com/AjitChauhan081/TicTacToe.git)
+   cd TicTacToe-Python](https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type+&x=none&v=4&h=4&w=80&we=false)
+   ```
+2. **Run the game:**
+   ```cmd
+   python TicTakToe.py
+   ```
